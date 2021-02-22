@@ -1,5 +1,4 @@
 
-
 The notebook is platformed on GitHub and is directly linked to GitHub repositories that contain further details than will be presented in notebook posts. The notebook and repositories are dynamic real-time documents.
 
 
